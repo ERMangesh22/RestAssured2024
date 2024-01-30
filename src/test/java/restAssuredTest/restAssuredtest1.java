@@ -12,7 +12,7 @@ import static org.hamcrest.Matchers.*;
 
 public class restAssuredtest1 {
 	
-	@Test(enabled=false)
+	@Test
 	public void test1() {
 		
 		
