@@ -34,6 +34,7 @@ public class restAssuredtest1 {
 		//return response;
 		System.out.println(response.asString());
 		System.out.println("Development");
+		System.out.println("New RestAssured");
 		
 	}
 	
