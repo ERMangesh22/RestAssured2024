@@ -33,6 +33,7 @@ public class restAssuredtest1 {
 		System.out.println(response.getStatusCode());
 		//return response;
 		System.out.println(response.asString());
+		System.out.println("Development");
 		
 	}
 	
